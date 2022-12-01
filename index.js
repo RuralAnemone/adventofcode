@@ -12,12 +12,16 @@ elf.split("\n\n").forEach(e => {
   arr.push(sum);
 })
 
-elf.split.map()
+// elf.split("\n\n").map()
 
 arr.forEach(e => {
-  max = Math.max(max,e)
+  // sort
+  
+  // not sure why I just looked up "js bubble sort" uh
+  // well anyways
+  // this is actually my own thoughts though don't worry :)
+  
 })
 
 console.log(max)
-console.log()
 console.timeEnd("time")
